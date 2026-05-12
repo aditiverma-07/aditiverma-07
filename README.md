@@ -20,7 +20,7 @@
 💻 B.Tech CSE Student  
 🚀 Exploring Web Development & Cloud  
 📚 Practicing DSA  
-✨ Building aesthetic real-world projects  
+✨ Building real-world projects  
 
 ---
 
