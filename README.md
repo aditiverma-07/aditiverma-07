@@ -18,7 +18,7 @@
 
 ## 🌸 About Me
 💻 B.Tech CSE Student  
-🚀 Exploring Web Development & Cloud  
+🚀 Exploring Java Full-Stack Development & Cloud  
 📚 Practicing DSA  
 ✨ Building real-world projects  
 
