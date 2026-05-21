@@ -40,9 +40,6 @@
 
 [![Aditi's Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=aditiverma-07&theme=github-dark)](https://github.com/YOUR_USERNAME)
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditiverma-07&theme=dark)](https://git.io/streak-stats)
 
 ## 🐍 Contribution Snake
 
